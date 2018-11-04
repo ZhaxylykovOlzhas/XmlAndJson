@@ -1,0 +1,38 @@
+{
+  "Aircraft": {
+    "Name": "Cy-45",
+    "Age ": "3",
+    "NameAirport": "Nazarbaev",
+    "CostOf": "2000000"
+  },
+  "Aircraft1": {
+    "Name": "Pro-23",
+    "Age": "10",
+    "NameAirport": "London",
+    "CostOf": "3500000"
+  },
+  "Aircraft3": {
+    "Name": "Air-65",
+    "Age": "21",
+    "NameAirport": "Marokko",
+    "CostOf": "4800000"
+  },
+  "Laptop": {
+    "LaptopName": "Lenova 4s",
+    "Version": "4s",
+    "ProductYear": "2015",
+    "NameCompany": "Lenova China"
+  },
+  "Laptop1": {
+    "LaptopName":"Alser 3q",
+    "Version":"3q",
+     "ProductYear":"2016",
+    "NameCompany":"Alser China"
+  },
+  "Laptop3":{
+    "LaptopName":"HP 11",
+    "Version":"11",
+     "ProductYear":"2017",
+    "NameCompany":"HP America"
+  }
+  }

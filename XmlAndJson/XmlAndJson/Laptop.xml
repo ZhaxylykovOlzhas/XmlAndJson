@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Laptops>
+  <Laptop
+  LaptopName="Lenova 4s"
+  Version="4s"
+  ProductYear="2015"
+  NameCompany="Lenova China"
+ />
+  <Laptop
+LaptopName="Alser "
+Version="Qashqai"
+ProductYear="2016"
+NameCompany="Alser China"
+ />
+  <Laptop
+LaptopName="HP"
+Version="11"
+ProductYear="2017"
+NameCompany="HP America"
+ />
+</Laptops>
+
+

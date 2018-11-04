@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Aircrafts>
+
+  <Aircraft
+  Name= "Cy-45"
+  Age ="3"
+  NameAirport="Nazarbaev"
+  CostOf="2000000"
+/>
+
+  <Aircraft
+  Name= "Pro-23"
+  Age ="10"
+  NameAirport="London"
+  CostOf="3500000"
+/>
+
+  <Aircraft
+   Name= "Air-65"
+   Age ="21"
+   NameAirport="Marokko"
+   CostOf="4800000"
+/>
+
+</Aircrafts>
